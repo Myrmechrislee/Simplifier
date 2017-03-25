@@ -1,0 +1,20 @@
+{
+  "name": "simplifier",
+  "version": "0.0.2",
+  "description": "",
+  "main": "modules.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm config ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myrmechrislee/node_modules.git"
+  },
+  "author": "Christophe Lee <christophelee2004@gmail.com> (https://github.com/Myrmechrislee)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myrmechrislee/node_modules/issues"
+  },
+  "homepage": "https://github.com/Myrmechrislee/node_modules#readme"
+}
